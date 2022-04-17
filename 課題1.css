@@ -2,12 +2,12 @@ body {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
-.yoko{
+.yoko {
 display: flex;
-
+max-width: 100%;
 }
 
-.botan{
+.nav {
   margin: 150px,50px,50px,50px;
   font-size: 21px;
 }
@@ -76,7 +76,7 @@ font-size: 18px;
   }
 
 
-.COURESE p {
+.COURSE p {
   color: rgb(255, 132, 0);
   top: 60px;
   text-align: center;
@@ -161,7 +161,13 @@ font-weight: bold;
   padding-right: 150px;
   }
       
-      
+  .NEWS p {
+    color: rgb(255, 132, 0);
+    top: 60px;
+    text-align: center;
+    font-size: 24px;
+  }
+     
       
 
 .news {
